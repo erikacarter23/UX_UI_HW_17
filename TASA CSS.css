@@ -695,8 +695,7 @@ margin-right: 50px;
 
   @media all and (max-width: 761px) {
   header{
-    background-image: url(Images/Header\ Background\ no\ text.png);
-    background-size: cover;
+    background-image: url(Images/Header\ Background2.png);
     height:150px;
     width: 100%;
     background-repeat: no-repeat;
